@@ -15,11 +15,12 @@ My name is Hamdan Anwar, a Software Engineering student at University of Nebrask
 
     'My Metro' the Official App for Metro Medical Group based in Kuwait, available to download both in Play Store and App Store. The App offers a wide variety of features such as Appointment Bookings, Online Payments, Appointment History, Doctors/Hospitals search and more. 
     
-    ![Screenshot_20211005-133701](/uploads/129c1c38151af7d5c9d885893b3ec7be/Screenshot_20211005-133701.jpg)
-![Screenshot_20211005-133807](/uploads/894cdaa2a8d291bfb04664df74128ad6/Screenshot_20211005-133807.jpg)
-![Screenshot_20211005-133755](/uploads/6731ed5a9f4601d90ab84d37a3283c8d/Screenshot_20211005-133755.jpg)
-![Screenshot_20211005-133716](/uploads/6517ca70768254cdb66bb592e3e89dbd/Screenshot_20211005-133716.jpg)
-![Screenshot_20211005-133813](/uploads/5fea36953c8297498be4a460bcc9a5f4/Screenshot_20211005-133813.jpg)
+ ![Screenshot_20211005-133701](https://user-images.githubusercontent.com/96612374/147382485-8052470b-7c1c-414d-aa40-3455a2ce16d8.jpg)
+![Screenshot_20211005-133807](https://user-images.githubusercontent.com/96612374/147382486-f6c46420-e88b-4679-8305-775425073012.jpg)
+![Screenshot_20211005-133755](https://user-images.githubusercontent.com/96612374/147382490-36f9efbf-9115-4eef-bfa5-efc50fd17937.jpg)
+![Screenshot_20211005-133716](https://user-images.githubusercontent.com/96612374/147382491-a8e8670f-524e-4051-92d1-8306f9428fe3.jpg)
+![Screenshot_20211005-133813](https://user-images.githubusercontent.com/96612374/147382492-8399151e-e482-4c13-8737-5f76388fd54a.jpg)
+
 
 <!---
 s-hamdananwar/s-hamdananwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
