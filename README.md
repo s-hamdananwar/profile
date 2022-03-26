@@ -1,6 +1,6 @@
 # Hi There!
 
-My name is Hamdan Anwar, a Software Engineering student at University of Nebraska-Lincoln. My techinical experiences include but not limited to freelance Mobile and Web Application Development. Currently developing and expanding Python language skills.
+My name is Hamdan Anwar, a Software Engineering student at University of Nebraska-Lincoln. My techinical experiences include but not limited to freelance Mobile Application Development. Currently developing and expanding Python language skills.
 
 # Languages
 
